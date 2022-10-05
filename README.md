@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElenaShamiryan
+- 👋 Hi, I’m Elena Shamiryan
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 
